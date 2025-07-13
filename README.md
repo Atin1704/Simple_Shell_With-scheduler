@@ -31,4 +31,3 @@ contribution- saksham-scheduling algo and work on bonus,creating data structures
               atin-creating data structures(strut and queues)for shell and scheduler , updating simple_shell an creating other required files)
 
 
-https://github.com/saksham2104/OS-Assignment-3.git
